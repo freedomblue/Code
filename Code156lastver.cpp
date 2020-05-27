@@ -106,7 +106,3 @@ bool hanoi(int h, int t, int &count, int target ) {
 int main(){
     Read();
 } // int main()
-
-
-// Sorry that I`m not Japanese.
-// If you are only looking for Japanese, I`m afraid that I`m not the person whom you are looking for.
